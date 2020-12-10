@@ -1,6 +1,6 @@
-SOURCE_URL=https://releases.mattermost.com/5.25.7/mattermost-team-5.25.7-linux-amd64.tar.gz
-SOURCE_SUM=9ee64a0e0bb09ef24f32aa3eea1a80b47cccf36339b7498e52e0d244422e13bb
+SOURCE_URL=https://releases.mattermost.com/5.26.2/mattermost-team-5.26.2-linux-amd64.tar.gz
+SOURCE_SUM=1d56a1b10ba3ea3ee89e48c5ca7dcbbc40704f4b541a26d9f7b7254193c320bd
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=mattermost-team-5.25.7-linux-amd64.tar.gz
+SOURCE_FILENAME=mattermost-team-5.26.2-linux-amd64.tar.gz
